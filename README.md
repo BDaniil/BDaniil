@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BDaniil
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Svelte, GraphQL
+- 🌱 I’m currently learning Svelte, GraphQL. In future will learn Vue.js
 - 💞️ I’m looking to collaborate on a permanent basis
 - 📫 How to reach me:
                       linkedin.com/in/daniil-bogaciov-880249229
