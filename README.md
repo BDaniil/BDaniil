@@ -2,8 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning TypeScript, Vue.js, React.js
 - 💞️ I’m looking to collaborate on a permanent basis
-- 📫 How to reach me:
-                      linkedin.com/in/daniil-bogaciov-880249229
+- 📫 How to reach me
                       t.me/bogaciov_d
                       healer_yt@mail.ru
 
